@@ -1,0 +1,28 @@
+{
+  "name": "myapps",
+  "version": "1.0.0",
+  "description": "This is Semester Course Allocation website for University students where they are assigned courses by their semester wise.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node"
+  },
+  "author": "Shahzaman Aftab",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "mongoose": "^6.7.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-localstorage": "^2.2.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
